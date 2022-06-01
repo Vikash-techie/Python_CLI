@@ -18,10 +18,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">Python CLI Tool</h3>
 
@@ -125,19 +122,18 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-[![image](https://drive.google.com/uc?export=view&id=1M4VbETXo1eqH1iFB8o4Jt485ucykvacN)](https://drive.google.com/file/d/1M4VbETXo1eqH1iFB8o4Jt485ucykvacN/view?usp=sharing)  
-* To run the -i option the user should type python Vikash_SDK_Tool.py -i input.csv dependency@version_number  
-
-[![image](https://drive.google.com/uc?export=view&id=18u20puMD60m-1pY7_GOOxIzqD7lI72mt)](https://drive.google.com/file/d/18u20puMD60m-1pY7_GOOxIzqD7lI72mt/view?usp=sharing)
-* To run the -update option the user should type python Vikash_SDK_Tool.py -update -i input.csv dependency@version_number  
-[![image](https://drive.google.com/uc?export=view&id=1M4VbETXo1eqH1iFB8o4Jt485ucykvacN)](https://drive.google.com/file/d/1M4VbETXo1eqH1iFB8o4Jt485ucykvacN/view?usp=sharing)  
 * To run the -i option the user should type python Vikash_SDK_Tool.py -i input.csv dependency@version_number 
+[![image](https://drive.google.com/uc?export=view&id=1M4VbETXo1eqH1iFB8o4Jt485ucykvacN)](https://drive.google.com/file/d/1M4VbETXo1eqH1iFB8o4Jt485ucykvacN/view?usp=sharing)   
+
+* To run the -update option the user should type python Vikash_SDK_Tool.py -update -i input.csv dependency@version_number  
+[![image](https://drive.google.com/uc?export=view&id=1aMX9Fsaygq4c7dlhePEwwuj058TOixPG)](https://drive.google.com/file/d/1aMX9Fsaygq4c7dlhePEwwuj058TOixPG/view?usp=sharing)  
+
+* This is what a user's input file will look like. 
 [![image](https://drive.google.com/uc?export=view&id=1g9asgmK7BFC8HJpkfok1t34qzfX0ThBS)](https://drive.google.com/file/d/1g9asgmK7BFC8HJpkfok1t34qzfX0ThBS/view?usp=sharing)  
-* This is what a user's input file will look like.  
-
+ 
+* This is what a user's output file will look like after running the update option. 
 [![image](https://drive.google.com/uc?export=view&id=1IJ-zycx0iifLUEo2-8eKJQYoS_cDX9wi)](https://drive.google.com/file/d/1IJ-zycx0iifLUEo2-8eKJQYoS_cDX9wi/view?usp=sharing)  
-* This is what a user's output file will look like after running the update option.  
-
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
